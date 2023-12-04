@@ -1,4 +1,4 @@
-### oi! eu me chamo mayke
+### oi! eu me chamo mayke.
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maykezinhoo?igshid=MTNiYzNiMzkwZA==/#)
 
