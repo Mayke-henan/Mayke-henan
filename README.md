@@ -8,5 +8,5 @@ ainda sou iniciante no ramo mas pretendo fazer uma faculdade logo🤓
 ## linguagens em que eu programo
 
 <div style="display: inline_block"><br/>
-<img aling="center" alt="Python" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
