@@ -1,4 +1,5 @@
-### oi! eu me chamo mayke, ainda sou iniciante no ramo mas pretendo fazer uma faculdade logo🤓
+### oi! eu me chamo mayke.
+ainda sou iniciante no ramo mas pretendo fazer uma faculdade logo🤓
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maykezinhoo/#)
 
