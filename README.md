@@ -5,8 +5,8 @@ ainda sou iniciante no ramo mas pretendo fazer uma faculdade logo🤓
 
 ![Mayke-henan GitHub stats](https://github-readme-stats.vercel.app/api?username=mayke-henan&show_icons=true&theme=dracula)
 
-## linguagens em que eu programo
+##
 
 <div style="display: inline_block"><br/>
-<img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img aling="center" alt="Python" src="https://icongr.am/devicon/python-plain-wordmark.svg?size=128&color=currentColor" />
 </div>
