@@ -8,5 +8,5 @@ ainda sou iniciante no ramo mas pretendo fazer uma faculdade logo🤓
 ##
 
 <div style="display: inline_block"><br/>
-<img aling="center" alt="Python" src="https://icongr.am/devicon/python-plain-wordmark.svg?size=100&color=currentColor" />
+<img aling="center" alt="Python" src="https://icongr.am/devicon/python-plain-wordmark.svg?size=90&color=currentColor" />
 </div>
